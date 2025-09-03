@@ -13,5 +13,8 @@ public class Main {
         Calculator calculator = new Calculator();
         int sum = calculator.add(5, 10);
         System.out.println("Sum: " + sum);
+
+        int difference = calculator.subtract(10, 5);
+        System.out.println("Difference: " + difference);
     }
 }
