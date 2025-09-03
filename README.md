@@ -1,18 +1,10 @@
-## Getting Started
+## GitHub Testing Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This AI generated test program was made by Avi Gonzalez-Carlos
+Repository link: https://github.com/zhdzwolf/test-program
+Screencast link: https://youtu.be/gmOwN_QUQVs
 
-## Folder Structure
+## Screencast and IDE Software Used
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `NVIDIA ShadowPlay`, branch of the `NVIDIA App`
+- `Visual Studio Code`
